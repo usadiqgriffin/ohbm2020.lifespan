@@ -7,8 +7,11 @@ The poster presented during OHBM 2020 can be found [here](https://cdn-akamai.6co
 If you have any questions, a Jitsi chat where I'll be available during the following alloted hours can be found [here](https://datalad-datasets.github.io/ohbm2020-posters/#/room/1327/ohbm2020-1327). 
 
 Wednesday, June 24: 12.00H - New York; 17.00 - London; 24.00H - Hong Kong
+
 Friday, June 26: 20.00H - New York; 1.00 + 1d - London; 8.00H + 1d - Hong Kong
+
 Tuesday, June 30: 20.00H - New York; 1.00 + 1d - London; 8.00H + 1d - Hong Kong
+
 Thursday, July 2: 2.00H + 1d - New York; 7.00 + 1d - London; 11.00H + 1d - Hong Kong
 
 I'll be happy to hear questions, suggestions and collaborations.
