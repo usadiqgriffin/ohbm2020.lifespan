@@ -16,7 +16,7 @@ Thursday, July 2: 2.00H + 1d - New York; 7.00 + 1d - London; 11.00H + 1d - Hong 
 
 I'll be happy to hear questions, suggestions and collaborations.
 
-<img src="C:\Users\iuser\OneDrive - University of North Carolina at Chapel Hill\RedAgeing_OHBM2020_Poster_Press_small">
+<img src="C:/Users/iuser/OneDrive - University of North Carolina at Chapel Hill/RedAgeing_OHBM2020_Poster_Press_small.gif">
 
 Please continue to read Abstract.
 
